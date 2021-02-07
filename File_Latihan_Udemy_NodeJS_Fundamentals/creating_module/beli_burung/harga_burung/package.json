@@ -1,0 +1,11 @@
+{
+  "name": "harga_burung",
+  "version": "1.0.0",
+  "description": "Ini contoh aplikasi sederhana pembelian burung online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Izmilia Prastika <ismiliaprastika@gmail.com>",
+  "license": "ISC"
+}
