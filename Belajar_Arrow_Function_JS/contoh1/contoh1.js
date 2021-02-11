@@ -1,4 +1,4 @@
-/* versi koding pfuction expressiom
+/* versi koding function expressiom
 const panggilNama = function (nama) {
     return `Halo, ${nama}`;
 }
