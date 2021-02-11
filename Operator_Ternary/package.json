@@ -1,0 +1,11 @@
+{
+  "name": "operator_ternary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "if_else_ternary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
